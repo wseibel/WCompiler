@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+org.eclipse.emf.ecore.xcore.Xcore.syntaxColorer.tokenStyles.default.color=192,192,192
+org.eclipse.emf.ecore.xcore.Xcore.syntaxColorer.tokenStyles.error.color=192,192,192
+org.eclipse.emf.ecore.xcore.Xcore.syntaxColorer.tokenStyles.punctuation.color=192,192,192
+org.eclipse.emf.ecore.xcore.Xcore.syntaxColorer.tokenStyles.string.color=0,128,255
+org.eclipse.emf.ecore.xcore.Xcore.syntaxColorer.tokenStyles.xbase.deprecated.members.color=192,192,192
+org.eclipse.emf.ecore.xcore.Xcore.syntaxColorer.tokenStyles.xbase.field.color=0,128,255
+org.eclipse.emf.ecore.xcore.Xcore.syntaxColorer.tokenStyles.xbase.static.field.color=0,128,255
+org.eclipse.emf.ecore.xcore.Xcore.syntaxColorer.tokenStyles.xbase.static.method.invocation.color=192,192,192
